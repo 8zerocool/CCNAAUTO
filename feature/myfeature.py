@@ -8,3 +8,4 @@ def greet(name: str = "Network engineer") -> str:
 
 if __name__ == "__main__":
     print(greet())
+    print("Welcome to CCNA AUTOMATION CCNAAUTO 200-901.")
